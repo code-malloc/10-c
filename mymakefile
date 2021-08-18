@@ -1,0 +1,2 @@
+all:
+	gcc -Wall -g main.c file-1.c file-2.c file-3.c -o unicorn
